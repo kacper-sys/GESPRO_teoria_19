@@ -3,3 +3,5 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 
 
 ## Grupos
+Kacper Kotyla
+Dorota Wisniewska
